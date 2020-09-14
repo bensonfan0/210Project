@@ -1,0 +1,1 @@
+200,novel,chest,strength,true,false,false,true,true,true,false,485,225,385

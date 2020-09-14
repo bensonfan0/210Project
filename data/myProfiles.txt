@@ -1,0 +1,1 @@
+120,novel,back,strength,true,true,true,true,true,true,true,500,225,405

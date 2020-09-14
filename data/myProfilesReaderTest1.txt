@@ -1,0 +1,1 @@
+90,intermediate,reardelt,sidedelt,abs,strength,true,false,false,true,true,true,false,405,135,315
